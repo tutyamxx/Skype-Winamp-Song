@@ -1,6 +1,0 @@
-G:\Skype Winamp Song\Skype Mood Changer\obj\x86\Debug\Skype Winamp Song.csprojAssemblyReference.cache
-G:\Skype Winamp Song\Skype Mood Changer\obj\x86\Debug\Skype Winamp Song.csproj.ResolveComReference.cache
-G:\Skype Winamp Song\Skype Mood Changer\obj\x86\Debug\Skype_Mood_Changer.Form1.resources
-G:\Skype Winamp Song\Skype Mood Changer\obj\x86\Debug\Skype_Winamp_Song.Properties.Resources.resources
-G:\Skype Winamp Song\Skype Mood Changer\obj\x86\Debug\Skype Winamp Song.csproj.GenerateResource.cache
-G:\Skype Winamp Song\Skype Mood Changer\obj\x86\Debug\Skype Winamp Song.csproj.CoreCompileInputs.cache
